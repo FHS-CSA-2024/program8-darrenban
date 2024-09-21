@@ -2,7 +2,8 @@
 import java.util.Scanner;
 //
 //Your code here
-public class program8{
+public class Program{
+    //edit from program8 to Program because this file name is just "Program" for some reason
     public static void main(String[] args){
         int num1 = 0;
         int num2 = 0;
